@@ -1,4 +1,4 @@
-# My Perfil
+# Yuliana Girón Palacios
 
 ## 👩‍💻 Sobre mí
 ¡Hola! Soy Yuliana Girón Palacios, desarrolladora Full Stack apasionada por la tecnología y la innovación. Me encanta transformar ideas en soluciones digitales impactantes, explorando nuevas herramientas y mejorando constantemente mis habilidades.
