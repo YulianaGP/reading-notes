@@ -1,4 +1,4 @@
-# Definición
+# Guía de Markdown
 
 Markdown es un lenguaje de marcado ligero que facilita la creación de texto formateado utilizando una sintaxis simple y fácil de leer.
 
