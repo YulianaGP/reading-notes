@@ -18,6 +18,7 @@
 - [Prompt AI](https://www.notion.so/Prompt-AI-1bd32a8cf3dc804a9103d134e8d831d7)
 - [Markdown & GitHub](https://www.notion.so/Markdown-GitHub-GitHub-Pages-1bd32a8cf3dc8048b438d07e7bfba9ff)
 - [DevTools](https://www.notion.so/DevTools-1b732a8cf3dc80b29763e4fff628d845)
+- [Guía de Markdown](markdown-guide.md)
 
 ---
 
